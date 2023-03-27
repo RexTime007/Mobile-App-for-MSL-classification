@@ -2,8 +2,6 @@ __pycache__
 .idea
 .DS_Store
 
-data/dataset/*
-!data/dataset/.gitkeep
 
 data/videos/*
 !data/videos/.gitkeep
