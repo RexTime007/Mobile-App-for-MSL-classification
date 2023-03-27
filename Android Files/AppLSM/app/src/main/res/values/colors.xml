@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d2d2d</color>
+    <color name="primaryLightColor">#565656</color>
+    <color name="colorPrimaryDark">#2d2d2d</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="black">#FF000000</color>
+
+    <color name="letras">#DCDCDC</color>
+    <color name="fondo_widgets">#393939</color>
+    <color name="lineas">#4b4b4b</color>
+    <color name="resaltados">#55AAFF</color>
+    <color name="fondo_app">#232323</color>
+    <color name="boton_deshabilitado">#3985B5</color>
+    <color name="seccion_principal">#181818</color>
+    <color name="letras_tap">#A5A5A5</color>
+    <color name="resaltado_tap">#54BEFF</color>
+    <color name="fondo_deshabilitado">#2B2B2B</color>
+    <color name="font_deshabilitado">#B3B3B3</color>
+</resources>
