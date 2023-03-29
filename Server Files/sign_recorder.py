@@ -2,7 +2,7 @@ import multiprocessing
 import pandas as pd
 import numpy as np
 from collections import Counter
-from scoop import futures
+
 from utils.dtw import dtw_distances
 from models.sign_model import SignModel
 from utils.landmark_utils import extract_landmarks
